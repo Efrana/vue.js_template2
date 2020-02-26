@@ -4,7 +4,7 @@
       <template v-slot:content>
       <Postlayout>
         <template v-slot:contentmain>
-          <Postbody />
+          <Postbody/>
         </template>
         <template v-slot:contentside>
           <Blogside />
